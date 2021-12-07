@@ -17,18 +17,18 @@ Click Help To Know More...! 🙊</b></i>"""
 - @DianaPrincessBot is not an open source project. 
 - If You Want To Use Me , Join Our Group 👉 @MovieJunction 🔥 
 
-<b>DEVS:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+<b>Bot MANAGED BY:</b>
+- <a href=https://t.me/MovieJunction>Team Movie Junction ⚡</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and Bot will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. eva maria should have admin privillage.
-2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters.
+1. Diana can only used at @MovieJunction Group 😊.
+2. only admins can add filters in diana.
+3. So Ultimately You're Just Wasting Your Time 🤐.
 
-<b>Commands and Usage:</b>
+<b>Commands and Usage (Show Off Anu Ithe 🤓):</b>
 • /filter - <code>add a filter in chat</code>
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
@@ -43,14 +43,14 @@ Click Help To Know More...! 🙊</b></i>"""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/EvaMariaBot)</code>
+<code>[Button Text](buttonurl:https://t.me/MovieJunction)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
-1. Make me the admin of your channel if it's private.
+1. If You're Authorized to use me, Make me the admin of your channel if it's private.
 2. make sure that your channel does not contains camrips, porn and fake files.
 3. Forward the last message to me with quotes.
  I'll add all the files in that channel to my db."""
