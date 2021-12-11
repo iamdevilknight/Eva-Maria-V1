@@ -81,7 +81,7 @@ async def start(client, message):
             InlineKeyboardButton('♻️ JOIN OUR GROUP TO USE ME ♻️', url='http://t.me/MovieJunction')
             ],[
             InlineKeyboardButton('🔍 Search', url='http://t.me/MovieJunction'),
-            InlineKeyboardButton(''🏷 CHANNEL', url='https://t.me/Mj_Linkz')
+            InlineKeyboardButton('🏷 CHANNEL', url='https://t.me/Mj_Linkz')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
