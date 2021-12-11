@@ -20,38 +20,47 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
+            "value": "691869671874:AAEzbd_Zf4W79VOimMkdhTFiUwz1fNOHuhU",
             "required": true
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
+            "value": "1534768",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
+            "value": "894f663e1e289f898208e3a26f798214",
             "required": true
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "value": "300",
             "required": false
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "value": "1988471060 @MasterOfTG",
             "required": true
         },
         "PICS": {
             "description": "Add some telegraph link of pictures .",
+            "value": "https://telegra.ph/file/39e0ea89830395539a037.jpg",
             "required": false
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "value": "-1001521815305",
             "required": true
         },
         "SUPPORT_CHAT": {
             "description": "Username of a Support Group / ADMIN. ( Should be username without @ and not ID)",
+            "value": "Mj_Chats",
             "required": false
         },
         "AUTH_USERS": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
+            "value": "1988471060",
             "required": false
         },
         "AUTH_CHANNEL": {
@@ -60,18 +69,22 @@
         },   
         "USE_CAPTION_FILTER": {
             "description": "Whether bot should use captions to improve search results. (True False)",
+            "value": "true",
             "required": false
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
+            "value": "file_caption",
             "required": false
         },
         "DATABASE_URI": {
             "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+            "value": "mongodb+srv://mjautofilterbot:mjautofilterbot@cluster0.o889c69.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
             "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+            "value": "cluster0",
             "required": false
         },
         "COLLECTION_NAME": {
@@ -86,14 +99,17 @@
         },
         "IMDB": {
             "description": "Imdb, the view of information when making True/False ",
+            "value": "false",
             "required": false
         },
         "SINGLE_BUTTON": {
             "description": "choose b/w single or double buttons https://github.com/EvamariaTG/EvaMaria/issues/22",
+            "value": "true",
             "required": false
         },
         "P_TTI_SHOW_OFF": {
             "description": "Customize Result Buttons to Callback or Url by (True = url / False = callback)",
+            "value": "true",
             "required": false
         }
     },
