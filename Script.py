@@ -1,9 +1,9 @@
 class script(object):
-    START_TXT = """ """<b>Hey {} !</b>
+    START_TXT = """ """ // """<b>Hey {} !</b>
 
-<b><i>I'm An Advanced Group Managing bot Created For @MovieJunction 🔥
+// <b><i>I'm An Advanced Group Managing bot Created For @MovieJunction 🔥
 
-Click Help To Know More...! 🙊</b></i>""" """
+// Click Help To Know More...! 🙊</b></i>""" """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
