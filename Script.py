@@ -58,9 +58,9 @@ Here Is A Brief Details About Some of the Features Of Mine..."""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
-1. Make Me The Admin Of Your Channel and And The Channel In Auth List.
-2. That's It,Now I Will Index The Channel Files In @MovieJunctionGrp ⚡.
-3. And Obviously Won't Work Anywhere Else 🙃."""
+1.<code> Make Me The Admin Of Your Channel and And Add The Channel In Auth List.</code>
+2.<code> That's It,Now I Will Index The Channel Files In</code> @MovieJunctionGrp ⚡.
+3.<code> And Obviously Won't Work Anywhere Else 🙃</code>"""
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
