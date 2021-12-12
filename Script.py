@@ -13,11 +13,19 @@ Here Is A Brief Details About Some of the Features Of Mine..."""
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: N/A
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: N/A
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.0 [ Stable ]"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- @DianaPrincessBot is not an open source project. 
-- If You Want To Use Me , Join Our Group 👉 @MovieJunction 🔥 
+    SOURCE_TXT = """✯ Kanged And Modified By @MasterOfTG 🙂
 
-<b>Bot MANAGED BY:</b>
+✯ Special Courtesy To :
+   ● Team Eva Maria
+   ● Team TrojanzHex
+   ● Team CrazyBotsz
+   ● Team InFoTel 
+
+✯ Bot Managed By :
+   ● @DoubleAgent2
+   ● @Mr_WarLord
+   ● @Jeffrey_morgan2
+
 - <a href=https://t.me/MovieJunction>Team Movie Junction ⚡</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -50,10 +58,9 @@ Here Is A Brief Details About Some of the Features Of Mine..."""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
-1. If You're Authorized to use me, Make me the admin of your channel if it's private.
-2. make sure that your channel does not contains camrips, porn and fake files.
-3. Forward the last message to me with quotes.
- I'll add all the files in that channel to my db."""
+1. Make Me The Admin Of Your Channel and And The Channel In Auth List.
+2. That's It,Now I Will Index The Channel Files In @MovieJunctionGrp ⚡.
+3. And Obviously Won't Work Anywhere Else 🙃."""
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
