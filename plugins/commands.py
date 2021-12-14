@@ -42,8 +42,8 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Search', url='http://t.me/MovieJunction'),
             InlineKeyboardButton('🏷 CHANNEL', url='https://t.me/Mj_Linkz')
             ],[
-            InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton('ℹ️ Features', callback_data='help'),
+            InlineKeyboardButton('👨‍💻 Devs', callback_data='source')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -83,8 +83,8 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Search', url='http://t.me/MovieJunction'),
             InlineKeyboardButton('🏷 CHANNEL', url='https://t.me/Mj_Linkz')
             ],[
-            InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton('ℹ️ Features', callback_data='help'),
+            InlineKeyboardButton('👨‍💻 Devs', callback_data='source')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
