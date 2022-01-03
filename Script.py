@@ -27,7 +27,7 @@ Here Is A Brief Details About Some of the Features Of Mine..."""
    ● @Jeffrey_morgan2
 
 - <a href=https://t.me/MovieJunction>Team Movie Junction ⚡</a>"""
-    MANUELFILTER_TXT = """Help: <b>Filters</b>
+    MANUELFILTER_TXT = """Feature: <b>Filter</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Bot will respond whenever a keyword is found the message
 
@@ -36,12 +36,12 @@ Here Is A Brief Details About Some of the Features Of Mine..."""
 2. only admins can add filters in diana.
 3. So Ultimately You're Just Wasting Your Time 🤐.
 
-<b>Commands and Usage (Show Off Anu Ithe 🤓):</b>
+<b>Commands and Usage:</b>
 • /filter - <code>add a filter in chat</code>
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
-    BUTTON_TXT = """Help: <b>Buttons</b>
+    BUTTON_TXT = """Feature: <b>Filter Buttons</b>
 
 - Diana Bot Supports both url and alert inline buttons.
 
@@ -55,13 +55,13 @@ Here Is A Brief Details About Some of the Features Of Mine..."""
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
-    AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
+    AUTOFILTER_TXT = """Feature: <b>Auto Filter</b>
 
 <b>NOTE:</b>
 1.<code> Make Me The Admin Of Your Channel and And Add The Channel In Auth List.</code>
 2.<code> That's It,Now I Will Index The Channel Files In</code> @MovieJunctionGrp ⚡.
 3.<code> And Obviously Won't Work Anywhere Else 🙃</code>"""
-    CONNECTION_TXT = """Help: <b>Connections</b>
+    CONNECTION_TXT = """Feature: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
 - it helps to avoid spamming in groups.
@@ -74,7 +74,7 @@ Here Is A Brief Details About Some of the Features Of Mine..."""
 • /connect  - <code>connect a particular chat to your PM</code>
 • /disconnect  - <code>disconnect from a chat</code>
 • /connections - <code>list all your connections</code>"""
-    EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
+    EXTRAMOD_TXT = """Feature: <b>Extra Modules</b>
 
 <b>NOTE:</b>
 these are the extra features of Eva Maria
@@ -83,8 +83,9 @@ these are the extra features of Eva Maria
 • /id - <code>get id of a specifed user.</code>
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
-• /search  - <code>get the film information from various sources.</code>"""
-    ADMIN_TXT = """Help: <b>Admin mods</b>
+• /search  - <code>get the film information from various sources.</code>
+• /extramodes  - <code>Kanged Modes From @MissRose_bot.</code>"""
+    ADMIN_TXT = """Feature: <b>Admin mods</b>
 
 <b>NOTE:</b>
 This module only works for my admins
