@@ -77,14 +77,14 @@ Here Is A Brief Details About Some of the Features Of Mine..."""
     EXTRAMOD_TXT = """Feature: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Eva Maria
+these are the extra features of diana
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
 • /search  - <code>get the film information from various sources.</code>
-• /extramodes  - <code>Kanged Modes From @MissRose_bot.</code>"""
+• <code>There Are A Bunch Of Extra Modules Kanged From @BanhammerMarie_bot And Still Not Added In This Essay 😪(മടി 🙃),Gud Luck Finding Them Yourself 😅</code>"""
     ADMIN_TXT = """Feature: <b>Admin mods</b>
 
 <b>NOTE:</b>
