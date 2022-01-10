@@ -223,7 +223,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 except:
                     pass
             else:
-                await query.answer("Thats not for you!!",show_alert=True)
+                await query.message.reply_to_message.delete() ##query.answer("Thats not for you!!",show_alert=True)
 
 
     elif "groupcb" in query.data:
